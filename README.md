@@ -24,4 +24,46 @@ A production-grade financial analytics platform that analyzes
 
 ## Project Status
 
-Sprint 1 – Day 1 ✅ Environment Setup
+### Sprint 1
+
+### Day 1 – Environment Setup ✅
+
+- Project folder structure
+- Virtual environment
+- Dependency installation
+- Git repository initialization
+- GitHub repository setup
+- Makefile
+- Configuration files
+
+---
+
+### Day 2 – ETL Foundation ✅
+
+Implemented:
+
+- Excel Loader
+- Data Cleaning
+- Column Validation
+- Dataset Configuration
+- Ticker Normalization
+- Year Normalization
+- Multi-file Loader
+- Logging
+
+Successfully loading datasets:
+
+- Companies
+- Profit & Loss
+- Balance Sheet
+- Cash Flow
+- Analysis
+- Documents
+
+Gracefully handles missing datasets.
+
+---
+
+## 👩‍💻 Author
+
+**Sathvika Naik**
