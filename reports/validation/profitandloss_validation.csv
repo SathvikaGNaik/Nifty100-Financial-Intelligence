@@ -1,0 +1,18 @@
+Check,Column,Value
+Duplicate Rows,,0
+Duplicate IDs,,0
+Missing Values,id,0
+Missing Values,company_id,0
+Missing Values,year,0
+Missing Values,sales,0
+Missing Values,expenses,0
+Missing Values,operating_profit,13
+Missing Values,opm_percentage,15
+Missing Values,other_income,0
+Missing Values,interest,0
+Missing Values,depreciation,0
+Missing Values,profit_before_tax,0
+Missing Values,tax_percentage,95
+Missing Values,net_profit,0
+Missing Values,eps,5
+Missing Values,dividend_payout,103

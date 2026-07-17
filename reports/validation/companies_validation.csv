@@ -1,0 +1,15 @@
+Check,Column,Value
+Duplicate Rows,,0
+Duplicate IDs,,0
+Missing Values,id,0
+Missing Values,company_logo,1
+Missing Values,company_name,0
+Missing Values,chart_link,0
+Missing Values,about_company,0
+Missing Values,website,1
+Missing Values,nse_profile,1
+Missing Values,bse_profile,1
+Missing Values,face_value,1
+Missing Values,book_value,1
+Missing Values,roce_percentage,1
+Missing Values,roe_percentage,2

@@ -1,0 +1,10 @@
+Check,Column,Value
+Duplicate Rows,,0
+Duplicate IDs,,0
+Missing Values,id,0
+Missing Values,company_id,0
+Missing Values,year,0
+Missing Values,operating_activity,2
+Missing Values,investing_activity,2
+Missing Values,financing_activity,2
+Missing Values,net_cash_flow,2

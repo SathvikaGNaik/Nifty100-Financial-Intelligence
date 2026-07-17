@@ -1,0 +1,9 @@
+Check,Column,Value
+Duplicate Rows,,0
+Duplicate IDs,,0
+Missing Values,id,0
+Missing Values,company_id,0
+Missing Values,compounded_sales_growth,0
+Missing Values,compounded_profit_growth,0
+Missing Values,stock_price_cagr,0
+Missing Values,roe,0

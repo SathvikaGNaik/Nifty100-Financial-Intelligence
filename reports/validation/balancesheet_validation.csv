@@ -1,0 +1,16 @@
+Check,Column,Value
+Duplicate Rows,,0
+Duplicate IDs,,0
+Missing Values,id,0
+Missing Values,company_id,0
+Missing Values,year,0
+Missing Values,equity_capital,0
+Missing Values,reserves,0
+Missing Values,borrowings,0
+Missing Values,other_liabilities,0
+Missing Values,total_liabilities,0
+Missing Values,fixed_assets,0
+Missing Values,cwip,0
+Missing Values,investments,0
+Missing Values,other_asset,0
+Missing Values,total_assets,0
